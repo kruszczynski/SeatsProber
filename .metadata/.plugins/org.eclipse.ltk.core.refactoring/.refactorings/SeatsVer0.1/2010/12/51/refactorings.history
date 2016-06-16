@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;CheckBox.java&apos; to &apos;SeatsVer0.2/src/(default package)&apos;&#x0A;- Original project: &apos;SeatsVer0.1&apos;&#x0A;- Destination element: &apos;SeatsVer0.2/src/(default package)&apos;&#x0A;- Original element: &apos;CheckBox.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=SeatsVer0.2/src&lt;" element1="/src&lt;{CheckBox.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1292415830037" units="1" version="1.0"/>
+</session>
